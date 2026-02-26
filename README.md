@@ -7,8 +7,7 @@
 - ⚡ Unindo o mundo físico (elétrica, comandos industriais) com o digital (Python, Web).
 - 🌱 Atualmente estudando: **Python** (automação, análise de dados) e **Desenvolvimento Web** (HTML, CSS).
 - 🎯 Objetivo: Criar pontes entre hardware e software para soluções de IoT e Automação Industrial.
-- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-58425a3b2/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrovictortrabalho06@gmail.com)
-
+- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-58425a3b2/) 📧 **Email:**pedrovictortrabalho06@gmail.com
 ### 🛠 Tecnologias e Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
